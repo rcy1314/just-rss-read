@@ -1,0 +1,39 @@
+{
+  "short_name": "RSS",
+  "name": "RSS Feed Reader",
+  "description": "A simple RSS Feed Reader based on web technologies (HTML, CSS, JavaScript)",
+  "categories": ["RSS", "Feeds", "News"],
+  "screenshots": [
+    {
+      "src": "assets/screenshots/screenshot_light.png",
+      "type": "image/png",
+      "sizes": "1410x2862"
+    },
+    {
+      "src": "assets/screenshots/screenshot_dark.png",
+      "type": "image/png",
+      "sizes": "1410x2862"
+    }
+  ],
+  "icons": [
+    {
+      "src":"assets/app-icons/android/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src":"assets/app-icons/android/384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src":"assets/app-icons/android/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "theme_color": "#212529",
+  "background_color": "#000000",
+  "display": "standalone"
+}
